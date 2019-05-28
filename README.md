@@ -1,3 +1,4 @@
+(test task)
 Forecast app.
 The user enters a city into input field and has a detailed, visualised forecast for today.
 Clicking on the link below this forecast, user is going to another page, which contains forecast for a couple days ahead (3, 5, week), no matter. From there user can go back. (use React Router).
